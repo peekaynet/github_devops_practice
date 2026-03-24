@@ -1,0 +1,2 @@
+git@github.com:peekaynet/github_devops_practice.gi 
+devops at easy learning platform
